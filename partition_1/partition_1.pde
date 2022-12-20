@@ -19,7 +19,7 @@ void make()
   divvy2 = 50 + random(100);
   divvy3 = 50 + random(100);
   divvy4 = 50 + random(100);
-  limit = 32 + random(64);
+  limit = 64 + random(64);
   background(0);
   drawthis(0, 0, width, height);
   noFill();
